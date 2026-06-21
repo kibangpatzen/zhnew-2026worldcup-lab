@@ -1,2 +1,14 @@
 # zhnew-2026worldcup-lab
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
